@@ -1,0 +1,53 @@
+.Pokedex {
+    background-color: red;
+    border-radius: 10px;
+    border: 2pt solid #000;
+    box-shadow: 1px 4px 6px 5px #e0e0e0;
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    width: 400px;
+}
+
+.Pokedex-Lights {
+    display: flex;
+  padding: 10px 20px
+}
+
+.bolita-grande{
+    background-color: #42f5e3;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1pt solid #000;
+    box-shadow: -5px 5px 5px -4px #fff;
+}
+
+.little-light{
+    width: 10px;
+    height: 10px;
+    background-color: aquamarine;
+    margin: 5px 8px;
+    border-radius: 50%;
+    border: 1pt solid #000;
+    box-shadow: -5px 5px 5px -4px #fff;
+}
+
+.Pokedex-red{
+    background-color: crimson;
+}
+.Pokedex-yellow{
+    background-color: gold;
+}
+.Pokedex-green{
+    background-color: forestgreen;
+}
+ .Pokedex-Screen{
+    width: 85%;
+    background-color: #e0e0e0;
+    margin: auto;
+    flex: 1;
+    display: flex;
+    background-image: url('https://www.publicdomainpictures.net/pictures/270000/velka/grid-graph-paper-background-1537256532TAl.jpg');
+    background-size: contain;
+ }
